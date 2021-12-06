@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakeshpoudel
+- 👋 Hi, I’m Rakesh Poudel.
 - 👀 I’m interested in Web Developnment.
 - 🌱 I’m currently looking For Internship.
 - 💞️ I’m looking to collaborate on Team.
